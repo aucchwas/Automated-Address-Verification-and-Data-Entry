@@ -10,24 +10,6 @@
 
 ---
 
-<p>
-
-<span>
-  <a href="https://github.com/darsan-in/Nexa-auto/commits/main">
-    <img src="https://img.shields.io/github/last-commit/darsan-in/Nexa-auto?display_timestamp=committer&style=for-the-badge&label=Updated%20On" alt="GitHub last commit"/>
-  </a>
-</span>
-
-<span>
-  <a href="">
-    <img src="https://img.shields.io/github/commit-activity/m/darsan-in/Nexa-auto?style=for-the-badge&label=Commit%20Activity" alt="GitHub commit activity"/>
-  </a>
-</span>
-
-</p>
-
----
-
 </div>
 
 ## Table of Contents 📝
