@@ -50,18 +50,6 @@
 
 ---
 
-<p>
-
-<span>
-  <a href="">
-    <img src="https://img.shields.io/github/stars/darsan-in/Nexa-auto?style=for-the-badge&label=Stars" alt="GitHub Repo stars"/>
-  </a>
-</span>
-
-</p>
-
----
-
 </div>
 
 ## Table of Contents 📝
