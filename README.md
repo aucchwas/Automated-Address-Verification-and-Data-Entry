@@ -71,11 +71,6 @@
 
 - [Usage](#usage)
 
-- [Contributing to Our Project](#contributing-to-our-project-)
-
-- [Contact Information](#contact-information)
-- [Credits](#credits-)
-
 ## Features and Benefits ✨
 
 - **Automated Address Lookup**: Seamlessly searches and verifies addresses across Zillow, Trulia, Apartments.com, and Redfin.
@@ -112,38 +107,3 @@ pip install -r requirements.txt
 ```bash
 python nexaauto.py
 ```
-
-## Contact Information
-
-For any questions, please reach out via hello@darsan.in or [LinkedIn](https://www.linkedin.com/in/darsan-in/).
-
-## Credits 🙏🏻
-
-Special thanks to [JE-Chen](https://github.com/JE-Chen) for their work on [ReEdgeGPT](https://github.com/Integration-Automation/ReEdgeGPT), which was instrumental in the development of the GPT integration for this project.
-
----
-
-#### Topics
-
-<ul id="keywords">
-<li>address verification</li>
-<li>web automation</li>
-<li>selenium scraping</li>
-<li>GPT integration</li>
-<li>data entry automation</li>
-<li>real estate data</li>
-<li>address lookup</li>
-<li>room service eligibility</li>
-<li>web scraping</li>
-<li>missing data prediction</li>
-<li>AI-enhanced automation</li>
-<li>customizable scripts</li>
-<li>scalable automation</li>
-<li>error reduction</li>
-<li>data completeness</li>
-<li>data verification</li>
-<li>real estate</li>
-<li>automation tools</li>
-<li>address validation</li>
-<li>property details</li>
-</ul>
