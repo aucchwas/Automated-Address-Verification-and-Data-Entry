@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nexa Auto - Automated Address Verification and Data Entry
+# Automated Address Verification and Data Entry
 
 <p id="intro">Nexa Auto automates the process of verifying the authenticity of addresses for room service eligibility and retrieving detailed specifications across multiple websites. Utilizing Selenium for web automation and GPT for handling missing data, Nexa Auto significantly reduces manual effort in data entry tasks.</p>
 
