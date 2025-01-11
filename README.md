@@ -28,28 +28,6 @@
 
 ---
 
-<p>
-
-<span>
-  <a href="https://github.com/darsan-in/Nexa-auto/releases">
-    <img src="https://img.shields.io/github/v/release/darsan-in/Nexa-auto?include_prereleases&sort=date&display_name=tag&style=for-the-badge&label=Latest%20Version" alt="GitHub Release"/>
-  </a>
-</span>
-
-</p>
-
-<p>
-
-<span>
-  <a href="https://www.codefactor.io/repository/github/darsan-in/Nexa-auto/issues/main">
-    <img src="https://img.shields.io/codefactor/grade/github/darsan-in/Nexa-auto?style=for-the-badge&label=Code%20Quality%20Grade" alt="CodeFactor Grade"/>
-  </a>
-</span>
-
-</p>
-
----
-
 </div>
 
 ## Table of Contents 📝
